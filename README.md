@@ -1,6 +1,6 @@
 # Calcify
 
-# Calculator Web App
+# Description
 
 A simple and intuitive calculator web application built with HTML, CSS, and JavaScript. It includes standard operations, memory functions, keyboard support, and a clean, responsive interface.
 
@@ -18,3 +18,11 @@ A simple and intuitive calculator web application built with HTML, CSS, and Java
   - **⌫**: Deletes the last character from the input.
 - **Keyboard Support**: Allows calculations directly via the keyboard for improved accessibility and ease of use.
 - **Responsive Design**: The calculator is styled to adapt well across devices.
+
+## License
+
+This project is licensed under the Apache License 2.0. You are free to use, modify, and distribute this project under the terms of this license.
+
+- **Apache License 2.0**: See the [LICENSE.txt] file for details.
+
+Copyright (c) 2024 Calcify
