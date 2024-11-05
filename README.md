@@ -1,6 +1,6 @@
 # Calcify
 
-# Description
+## Description
 
 A simple and intuitive calculator web application built with HTML, CSS, and JavaScript. It includes standard operations, memory functions, keyboard support, and a clean, responsive interface.
 
